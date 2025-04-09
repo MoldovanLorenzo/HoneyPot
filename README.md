@@ -1,4 +1,4 @@
-Acesta este un mic honeypot scris in Python, care simuleaza un server SSH si salveaza date despre incercarile de conectare.
+Acesta este un honeypot scris in Python, care simuleaza un server SSH si salveaza date despre incercarile de conectare.
 Are si o interfata grafica facuta cu tkinter, unde poti vedea loguri in timp real si statistici despre conexiuni.
 
 Ce face aplicatia:
