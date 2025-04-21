@@ -55,9 +55,13 @@ Librarii folosite
 
 
 paramiko – pentru simularea serverului SSH.
+
 socket si threading – pentru conexiuni multiple.
+
 tkinter – pentru interfata grafica.
+
 csv si datetime – pentru salvarea datelor.
+
 Surse si inspiratie
 
 Am folosit urmatoarele linkuri pentru inspiratie si intelegere:
