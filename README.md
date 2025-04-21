@@ -25,6 +25,8 @@ Vezi toate incercarile de conectare in timp real.
 Butoane pentru pornirea si oprirea serverului.
 Comutare rapida intre loguri si statistici.
 Statistici in timp real
+
+
 <img width="694" alt="Screenshot 2025-04-09 at 18 50 21" src="https://github.com/user-attachments/assets/fe497bd8-155b-4e8d-a127-95febb1cfd60" />
 
 
