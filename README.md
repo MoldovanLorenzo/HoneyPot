@@ -49,7 +49,10 @@ Vezi in timp real cine incearca sa se conecteze.
 Acceseaza pagina "vezi statistici" pentru raportul in timp real.
 4. Datele sunt salvate automat
 Toate incercarile de conectare sunt salvate in utilizatori.csv.
+
+
 Librarii folosite
+
 
 paramiko – pentru simularea serverului SSH.
 socket si threading – pentru conexiuni multiple.
