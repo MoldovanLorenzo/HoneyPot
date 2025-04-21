@@ -26,6 +26,8 @@ Butoane pentru pornirea si oprirea serverului.
 Comutare rapida intre loguri si statistici.
 Statistici in timp real
 <img width="694" alt="Screenshot 2025-04-09 at 18 50 21" src="https://github.com/user-attachments/assets/fe497bd8-155b-4e8d-a127-95febb1cfd60" />
+
+
 Numar total de conexiuni primite.
 Numar de IP-uri unice care au incercat sa se conecteze.
 Top 5 parole cel mai des incercate.
